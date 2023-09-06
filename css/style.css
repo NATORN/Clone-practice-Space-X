@@ -117,6 +117,7 @@ section {
 /* Background images */
 .section-a {
   background-image: ('../img/section-a.webp');
+  position: absolute;
 }
 
 .btn {
