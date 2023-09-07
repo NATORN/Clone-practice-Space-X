@@ -97,3 +97,8 @@ footer ul {
   align-items: center;
   flex-wrap: wrap;
 }
+
+footer ul li {
+  margin-right: 30px;
+  color: #aaa;
+}
