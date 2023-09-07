@@ -116,7 +116,13 @@ section {
 
 /* Background images */
 .section-a {
-  background-image: ("../img/section-a.webp");
+  background-image: url("../img/section-a.webp");
+}
+.section-b {
+  background-image: url("../img/section-b.webp");
+}
+.section-c {
+  background-image: url("../img/section-c.webp");
 }
 
 .btn {
