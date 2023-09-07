@@ -116,13 +116,12 @@ section {
 
 /* Background images */
 .section-a {
-  background-image: ('../img/section-a.webp');
-  position: absolute;
+  background-image: ("../img/section-a.webp");
 }
 
 .btn {
   position: relative;
-  display: inline-block; 
+  display: inline-block;
   cursor: pointer;
   text-align: center;
   min-width: 130px;
