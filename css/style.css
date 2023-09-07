@@ -84,3 +84,16 @@ ul {
   transform-origin: left center;
   transition-duration: 0.4s;
 }
+
+/* Footer */
+footer {
+  position: relative;
+  padding: 55px;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
