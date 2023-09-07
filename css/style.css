@@ -124,6 +124,12 @@ section {
 .section-c {
   background-image: url("../img/section-c.webp");
 }
+.section-d {
+  background-image: url("../img/section-d.webp");
+}
+.section-e {
+  background-image: url("../img/section-e.webp");
+}
 
 .btn {
   position: relative;
