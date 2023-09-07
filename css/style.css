@@ -105,3 +105,12 @@ footer ul li {
   font-size: 13px;
   line-height: 2.5;
 }
+
+footer ul li a {
+  color: #fff;
+  transition: color 0.6s;
+}
+
+footer ul li a:hover [
+  color: #aaa;
+]
