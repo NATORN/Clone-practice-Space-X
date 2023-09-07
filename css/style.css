@@ -101,4 +101,7 @@ footer ul {
 footer ul li {
   margin-right: 30px;
   color: #aaa;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 2.5;
 }
