@@ -221,3 +221,10 @@ footer ul li a {
 footer ul li a:hover {
   color: #aaa;
 }
+
+/* Media Queries */
+@media(max-width:960px)
+
+@media(max-width: 600px) {
+
+}
